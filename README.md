@@ -143,6 +143,4 @@ EO-Analyzer/
 - Ollama must be running before starting the backend. The tool will retry connections up to 5 times.
 - Cache expires after 1 day. Delete eo_cache.json to force a fresh fetch.
 
-## License
 
-MIT — use at your own risk. Not legal advice. Always consult a trade attorney for compliance decisions.
